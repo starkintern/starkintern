@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @starkintern
 - 👀 I’m interested in Software Development and Dev/Ops
-- 🌱 I’m currently learning Python and Swift
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: send me an email! jsov886@gmail.com
 
